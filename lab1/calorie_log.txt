@@ -1,0 +1,10 @@
+Date: 08/11/2025
+Meal Name	Calories
+-------------------------
+breakfast		600
+lunch		800
+dinner		1000
+-------------------------
+Total:		2400
+Average:	800.00
+STATUS: WARNING! You exceeded your daily calorie limit.
